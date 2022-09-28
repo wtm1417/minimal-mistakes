@@ -1,6 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-layout: "splash"
+author: "William Moore"
 author_profile: true
 ---
