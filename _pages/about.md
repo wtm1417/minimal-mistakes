@@ -4,9 +4,7 @@ title: "About"
 layout: single
 author_profile: true
 ---
-Hi, I'm William.
-
-I'm currently a 4th year medical student at Boston University applying into diagnostic radiology. I created this site to share my interests and current projects.
+I'm currently a 4th year medical student at Boston University applying into diagnostic radiology. I am interested in utilizing technology to improve healthcare. I created this site to share my interests and current projects.
 
 ## Education
 **Boston University** Doctor of Medicine
