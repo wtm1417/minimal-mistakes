@@ -7,16 +7,15 @@ author_profile: true
 I'm currently a 4th year medical student at Boston University applying into diagnostic radiology. I am interested in leveraging technology to improve patient care and eliminate healthcare disparities. I created this site to share my interests and current projects.
 
 ## Education
-`2019 - 2023` **Boston University** Doctor of Medicine  
-`2017 - 2019` **Boston University** Master's of Science in Medical Sciences    
-`2010 - 2014` **University of Colorado** Bachelor of Arts in Integrative Physiology   
+**Boston University** Doctor of Medicine `2019 - 2023`  
+**Boston University** Master's of Science in Medical Sciences `2017 - 2019`    
+**University of Colorado** Bachelor of Arts in Integrative Physiology `2010 - 2014`  
 
 ## Scholarships & Awards
-Boston University Radiology Research Fellowship _July 2022_  
-> Serchuck Best Biomedical Science Poster - Boston University Annual Medical Student Research Symposium _February 2021_  
-
-Medical Student Summer Research Program Scholarship _June 2020_  
-Babur Z. Khalique Memorial Scholarship in Medical Research in Translational Medicine _May 2020_  
+* Boston University Radiology Research Fellowship _July 2022_  
+* Serchuck Best Biomedical Science Poster - Boston University Annual Medical Student Research Symposium _February 2021_  
+* Medical Student Summer Research Program Scholarship _June 2020_  
+* Babur Z. Khalique Memorial Scholarship in Medical Research in Translational Medicine _May 2020_  
 
 ## Languages
 * German - Conversational
