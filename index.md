@@ -12,11 +12,11 @@ _2017 - 2019_ **Boston University** Master's of Science in Medical Sciences
 _2010 - 2014_ **University of Colorado** Bachelor of Arts in Integrative Physiology  
 
 ## Scholarships & Awards
-Boston University Radiology Research Fellowship _July 2022_
-Serchuck Best Biomedical Science Poster _February 2021_
-Boston University Annual Medical Student Research Symposium
-Medical Student Summer Research Program Scholarship _June 2020_
-Babur Z. Khalique Memorial Scholarship in Medical Research in Translational Medicine _May 2020_
+Boston University Radiology Research Fellowship _July 2022_  
+Serchuck Best Biomedical Science Poster _February 2021_  
+Boston University Annual Medical Student Research Symposium  
+Medical Student Summer Research Program Scholarship _June 2020_  
+Babur Z. Khalique Memorial Scholarship in Medical Research in Translational Medicine _May 2020_  
 
 ## Languages
 * German - Conversational
