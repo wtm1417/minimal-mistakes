@@ -12,11 +12,10 @@ I'm currently a 4th year medical student at Boston University applying into diag
 **University of Colorado** Bachelor of Arts in Integrative Physiology _2010 - 2014_  
 
 ## Scholarships & Awards
-Boston University Radiology Research Fellowship _July 2022_  
-Serchuck Best Biomedical Science Poster _February 2021_  
-Boston University Annual Medical Student Research Symposium  
-Medical Student Summer Research Program Scholarship _June 2020_  
-Babur Z. Khalique Memorial Scholarship in Medical Research in Translational Medicine _May 2020_  
+* Boston University Radiology Research Fellowship _July 2022_  
+* Serchuck Best Biomedical Science Poster - Boston University Annual Medical Student Research Symposium _February 2021_  
+* Medical Student Summer Research Program Scholarship _June 2020_  
+* Babur Z. Khalique Memorial Scholarship in Medical Research in Translational Medicine _May 2020_  
 
 ## Languages
 * German - Conversational
