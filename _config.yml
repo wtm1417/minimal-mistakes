@@ -105,8 +105,8 @@ analytics:
 author:
   name             : "William Moore"
   avatar           : "/assets/images/biophoto.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "" # example I am an amazing person - can use markdown
+  location         : "Boston"
   email            :
   links:
     - label: "Email"
