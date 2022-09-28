@@ -11,6 +11,10 @@ _2019 - 2023_ - **Boston University** Doctor of Medicine
 _2017 - 2019_ - **Boston University** Master's of Science in Medical Sciences  
 _2010 - 2014_ - **University of Colorado** Bachelor of Arts in Integrative Physiology  
 
+## Languages
+* German - Conversational
+* Spanish - Novice
+
 ## Hobbies & Interests
 * Backcountry Skiing & Snowboarding, Mountain Biking
 * Photography & Videography, including piloting drones to achieve unique perspectives
