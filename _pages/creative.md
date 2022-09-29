@@ -6,8 +6,8 @@ classes: wide
 feature_row:
   - image_path: /assets/images/photographer-telluride-william-tyler-moore.jpeg
     alt: "photographer taking picture of mountain in telluride colorado"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'I enjoy photographying and filming my adventures to share with the world.'
+    title: "Photography & Filmmaking"
+    excerpt: 'I enjoy photographing and filming my adventures to share with the world.'
     #url: "#test-link"
     #btn_label: "Read More"
     #btn_class: "btn--primary"
