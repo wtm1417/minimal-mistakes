@@ -107,11 +107,11 @@ author:
   avatar           : "/assets/images/biophoto.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "" # example I am an amazing person - can use markdown
   location         : "Boston"
-  email            :
+  email            : "william@witymo.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:william@witymo.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
