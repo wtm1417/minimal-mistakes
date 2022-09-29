@@ -1,67 +1,24 @@
 ---
 title: "Creative"
-layout: splash
 permalink: /creative/
-date: 2022-09-14T11:48:41-04:00
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  #actions:
-  #  - label: "Download"
-  #    url: "https://github.com/mmistakes/minimal-mistakes/"
-  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-#excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
-intro:
-  - excerpt: 'I enjoy capturing images to share my adventures with others. `type="center"`'
-feature_row:
-  - image_path: assets/images/fish-creek-falls-william-tyler-moore.jpeg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/photographer-telluride-william-tyler-moore.jpeg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/snowboard-steamboat-springs-colorado-william-tyler-moore.jpeg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
-  - image_path: /assets/images/photographer-telluride-william-tyler-moore.jpeg
+layout: single
+classes: wide
+gallery:
+  - url: /assets/images/photographer-telluride-william-tyler-moore.jpeg
+    image_path: /assets/images/photographer-telluride-william-tyler-moore.jpeg
     alt: "photographer taking picture of mountain in telluride colorado"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/fish-creek-falls-william-tyler-moore.jpeg
+    title: "Image 1 title caption"
+  - url: /assets/images/fish-creek-falls-william-tyler-moore.jpeg
+    image_path: /assets/images//assets/images/fish-creek-falls-william-tyler-moore.jpeg
     alt: "rocky fish creek falls in the rain"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/snowboard-steamboat-springs-colorado-william-tyler-moore.jpeg
+    title: "Image 1 title caption"
+  - url: /assets/images/snowboard-steamboat-springs-colorado-william-tyler-moore.jpeg
+    image_path: /assets/images/snowboard-steamboat-springs-colorado-william-tyler-moore.jpeg
     alt: "snowboarder looking over a cliff in steamboat springs ski resort"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    title: "Image 1 title caption"
+  - url: /assets/images/photographer-telluride-william-tyler-moore.jpeg
+    image_path: /assets/images/photographer-telluride-william-tyler-moore.jpeg
+    alt: "photographer taking picture of mountain in telluride colorado"
+    title: "Image 1 title caption"
 ---
-
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
+{% include gallery id="gallery" %}
