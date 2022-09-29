@@ -4,6 +4,8 @@ permalink: /creative/
 layout: splash
 classes: wide
 header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
 feature_row:
   - image_path: /assets/images/photographer-telluride-william-tyler-moore.jpeg
     alt: "photographer taking picture of mountain in telluride colorado"
