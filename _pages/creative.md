@@ -7,7 +7,7 @@ feature_row:
   - image_path: /assets/images/photographer-telluride-william-tyler-moore.jpeg
     alt: "photographer taking picture of mountain in telluride colorado"
     title: "Photography & Filmmaking"
-    excerpt: 'I enjoy photographing and filming my adventures to share with the world.'
+    excerpt: 'For over a decade I have worked in various roles as a photographer and videographer, creating engaging content to help businesses and brands connect with customers. My favorite projects have been capturing outdoor adventures and action sports such as skiing and mountain biking for ski and bike shops, action sports films, and product manufacturers.  I am also a FAA certified drone pilot, which has enabled me to bring unique perspectives to my work. My goal is to create art that tells a story and will inspire others to go out into nature and have an adventure of their own. '
     #url: "#test-link"
     #btn_label: "Read More"
     #btn_class: "btn--primary"
