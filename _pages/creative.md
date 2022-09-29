@@ -21,4 +21,4 @@ gallery:
     alt: "photographer taking picture of mountain in telluride colorado"
     title: "Image 1 title caption"
 ---
-{% include gallery id="gallery" layout="half" class="full" %}
+{% include gallery id="gallery" layout="half" class="wide" %}
