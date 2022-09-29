@@ -3,6 +3,7 @@ title: "Creative"
 permalink: /creative/
 layout: splash
 classes: wide
+header:
 feature_row:
   - image_path: /assets/images/photographer-telluride-william-tyler-moore.jpeg
     alt: "photographer taking picture of mountain in telluride colorado"
