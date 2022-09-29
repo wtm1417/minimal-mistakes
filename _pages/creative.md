@@ -15,11 +15,11 @@ header:
 intro:
   - excerpt: 'I enjoy capturing images to share my adventures with others. `type="center"`'
 feature_row:
-  - image_path: assets/images/fish-creek-falls-william-tyler-moore.jpg
+  - image_path: assets/images/fish-creek-falls-william-tyler-moore.jpeg
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/photographer-telluride-william-tyler-moore.jpg
+  - image_path: /assets/images/photographer-telluride-william-tyler-moore.jpeg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Placeholder 2"
@@ -27,11 +27,11 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/snowboard-steamboat-springs-colorado-william-tyler-moore.jpg
+  - image_path: /assets/images/snowboard-steamboat-springs-colorado-william-tyler-moore.jpeg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/photographer-telluride-william-tyler-moore.jpg
+  - image_path: /assets/images/photographer-telluride-william-tyler-moore.jpeg
     alt: "photographer taking picture of mountain in telluride colorado"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
@@ -39,7 +39,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/fish-creek-falls-william-tyler-moore.jpg
+  - image_path: /assets/images/fish-creek-falls-william-tyler-moore.jpeg
     alt: "rocky fish creek falls in the rain"
     title: "Placeholder Image Right Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
@@ -47,7 +47,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/snowboard-steamboat-springs-colorado-william-tyler-moore.jpg
+  - image_path: /assets/images/snowboard-steamboat-springs-colorado-william-tyler-moore.jpeg
     alt: "snowboarder looking over a cliff in steamboat springs ski resort"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
