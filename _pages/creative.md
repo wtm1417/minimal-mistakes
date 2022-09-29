@@ -15,18 +15,22 @@ feature_row:
     #btn_label: "Read More"
     #btn_class: "btn--primary"
 gallery:
-  - url: /assets/images/bear-katmai-national-park-william-tyler-moore.jpeg
-    image_path: /assets/images/bear-katmai-national-park-william-tyler-moore.jpeg
-    alt: "grizzly bear in river at katmai national park"
-    title: "grizzly bear at katmai national park"
-  - url: /assets/images/fish-creek-falls-william-tyler-moore.jpeg
-    image_path: /assets/images/fish-creek-falls-william-tyler-moore.jpeg
-    alt: "rocky fish creek falls in the rain"
-    title: "fish creek falls colorado in the rain"
   - url: /assets/images/snowboard-steamboat-springs-colorado-william-tyler-moore.jpeg
     image_path: /assets/images/snowboard-steamboat-springs-colorado-william-tyler-moore.jpeg
     alt: "snowboarder looking over a cliff in steamboat springs ski resort"
-    title: "backcounty snowboarding steamboat springs colorado"
+    title: "backcountry snowboarding steamboat springs colorado"
+  - url: /assets/images/skiing-steamboat-springs-colorado-william-tyler-moore-01.jpeg
+    image_path: /assets/images/skiing-steamboat-springs-colorado-william-tyler-moore-01.jpeg
+    alt: "skiing powder at steamboat springs ski resort"
+    title: "skiing fresh powder at steamboat springs in colorado"
+  - url: /assets/images/snowboard-steamboat-springs-colorado-william-tyler-moore-02.jpeg
+    image_path: /assets/images/snowboard-steamboat-springs-colorado-william-tyler-moore-02.jpeg
+    alt: "backcountry snowboarder jumping off of a cliff"
+    title: "backcountry snowboarder jumping off of a cliff in steamboat springs colorado"
+  - url: /assets/images/skiing-steamboat-springs-colorado-william-tyler-moore-03.jpeg
+    image_path: /assets/images/skiing-steamboat-springs-colorado-william-tyler-moore-03.jpeg
+    alt: "fun skiing powder at steamboat springs ski resort"
+    title: "skier enjoying fresh powder at steamboat springs in colorado"
   - url: /assets/images/fall-lake-colorado-william-tyler-moore.jpg
     image_path: /assets/images/fall-lake-colorado-william-tyler-moore.jpg
     alt: "lake in fall in colorado"
@@ -39,7 +43,30 @@ gallery:
     image_path: /assets/images/hawaii-stairway-to-heaven-william-tyler-moore-1.jpg
     alt: "hawaii stairway to heaven hike panorama"
     title: "hawaii stairway to heaven hike panorama"
-  
+  - url: /assets/images/fat-bike-steamboat-springs-colorado-william-tyler-moore.jpeg
+    image_path: /assets/images/fat-bike-steamboat-springs-colorado-william-tyler-moore.jpeg
+    alt: "mountain biker fat biking in snow"
+    title: "fat biking in the snow on howellson hill"
+  - url: /assets/images/climber-fish-creek-falls-william-tyler-moore.jpeg
+    image_path: /assets/images/climber-fish-creek-falls-william-tyler-moore.jpeg
+    alt: "climber rock climbing fish creek falls colorado"
+    title: "climber climbing fish creek falls near steamboat springs colorado "
+  - url: /assets/images/bear-katmai-national-park-william-tyler-moore.jpeg
+    image_path: /assets/images/bear-katmai-national-park-william-tyler-moore.jpeg
+    alt: "grizzly bear in river at katmai national park"
+    title: "grizzly bear at katmai national park"
+  - url: /assets/images/sunset-howellson-hill-steamboat-springs-colorado-william-tyler-moore.jpg
+    image_path: /assets/images/sunset-howellson-hill-steamboat-springs-colorado-william-tyler-moore.jpg
+    alt: "sunset over howellson hill in steamboat springs colorado"
+    title: "Sunset over Howellson Hill in Steamboat Springs Colorado"
+  - url: /assets/images/trees-rabbit-ears-pass-colorado-william-tyler-moore.jpg
+    image_path: /assets/images/trees-rabbit-ears-pass-colorado-william-tyler-moore.jpg
+    alt: "drone shot of rabbit ears pass"
+    title: "Drone shot of rabbit ears pass"
+  - url: /assets/images/fish-creek-falls-william-tyler-moore.jpeg
+    image_path: /assets/images/fish-creek-falls-william-tyler-moore.jpeg
+    alt: "rocky fish creek falls in the rain"
+    title: "fish creek falls colorado in the rain"
 ---
 
 {% include feature_row id="feature_row" type="left" %}
