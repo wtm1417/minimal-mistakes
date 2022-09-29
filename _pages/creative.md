@@ -15,22 +15,31 @@ feature_row:
     #btn_label: "Read More"
     #btn_class: "btn--primary"
 gallery:
-  - url: /assets/images/photographer-telluride-william-tyler-moore.jpeg
-    image_path: /assets/images/photographer-telluride-william-tyler-moore.jpeg
-    alt: "photographer taking picture of mountain in telluride colorado"
-    title: "Image 1 title caption"
+  - url: /assets/images/bear-katmai-national-park-william-tyler-moore.jpeg
+    image_path: /assets/images/bear-katmai-national-park-william-tyler-moore.jpeg
+    alt: "grizzly bear in river at katmai national park"
+    title: "grizzly bear at katmai national park"
   - url: /assets/images/fish-creek-falls-william-tyler-moore.jpeg
     image_path: /assets/images/fish-creek-falls-william-tyler-moore.jpeg
     alt: "rocky fish creek falls in the rain"
-    title: "Image 1 title caption"
+    title: "fish creek falls colorado in the rain"
   - url: /assets/images/snowboard-steamboat-springs-colorado-william-tyler-moore.jpeg
     image_path: /assets/images/snowboard-steamboat-springs-colorado-william-tyler-moore.jpeg
     alt: "snowboarder looking over a cliff in steamboat springs ski resort"
-    title: "Image 1 title caption"
-  - url: /assets/images/photographer-telluride-william-tyler-moore.jpeg
-    image_path: /assets/images/photographer-telluride-william-tyler-moore.jpeg
-    alt: "photographer taking picture of mountain in telluride colorado"
-    title: "Image 1 title caption"  
+    title: "backcounty snowboarding steamboat springs colorado"
+  - url: /assets/images/fall-lake-colorado-william-tyler-moore.jpg
+    image_path: /assets/images/fall-lake-colorado-william-tyler-moore.jpg
+    alt: "lake in fall in colorado"
+    title: "colorado lake during the fall"
+  - url: /assets/images/hawaii-stairway-to-heaven-william-tyler-moore-2.jpg
+    image_path: /assets/images/hawaii-stairway-to-heaven-william-tyler-moore-2.jpg
+    alt: "hawaii stairway to heaven hike"
+    title: "hawaii stairway to heaven hike"
+  - url: /assets/images/hawaii-stairway-to-heaven-william-tyler-moore-1.jpg
+    image_path: /assets/images/hawaii-stairway-to-heaven-william-tyler-moore-1.jpg
+    alt: "hawaii stairway to heaven hike panorama"
+    title: "hawaii stairway to heaven hike panorama"
+  
 ---
 
 {% include feature_row id="feature_row" type="left" %}
