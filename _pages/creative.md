@@ -35,6 +35,10 @@ gallery:
     image_path: /assets/images/fall-lake-colorado-william-tyler-moore.jpg
     alt: "lake in fall in colorado"
     title: "colorado lake during the fall"
+  - url: /assets/images/hiker-colorado-william-tyler-moore.jpeg
+    image_path: /assets/images/hiker-colorado-william-tyler-moore.jpeg
+    alt: "hiker in the rain in colorado"
+    title: "hiker in the rain in colorado"
   - url: /assets/images/hawaii-stairway-to-heaven-william-tyler-moore-2.jpg
     image_path: /assets/images/hawaii-stairway-to-heaven-william-tyler-moore-2.jpg
     alt: "hawaii stairway to heaven hike"
