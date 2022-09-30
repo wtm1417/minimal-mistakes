@@ -12,7 +12,7 @@ feature_row:
     title: "Photography & Filmmaking"
     excerpt: 'For over a decade I have worked in various roles as a photographer and videographer creating engaging content to help businesses and brands connect with customers. My favorite projects have been capturing outdoor adventures and action sports such as skiing and mountain biking for ski and bike shops, action sports films, and product manufacturers.  I am also a FAA certified drone pilot, which has enabled me to bring unique perspectives to my work. My goal is to create art that tells a story and will inspire others to go out into nature and have an adventure of their own. '
     #url: "#test-link"
-    #btn_label: "Read More" 
+    #btn_label: "Read More"
     #btn_class: "btn--primary"
 gallery:
   - url: /assets/images/snowboard-steamboat-springs-colorado-william-tyler-moore.jpeg
@@ -39,6 +39,22 @@ gallery:
     image_path: /assets/images/fall-lake-colorado-william-tyler-moore.jpg
     alt: "lake in fall in colorado"
     title: "colorado lake during the fall"
+  - url: /assets/images/fall-mountain-biking-william-tyler-moore.jpeg
+    image_path: /assets/images/fall-mountain-biking-william-tyler-moore.jpeg
+    alt: "mountain biking in the fall in colorado"
+    title: "mountain biking on Rabbit Ears Pass near Steamboat Springs Colorado"
+  - url: /assets/images/fall-mountain-biking-william-tyler-moore-02.jpeg
+    image_path: /assets/images/fall-mountain-biking-william-tyler-moore-02.jpeg
+    alt: "mountain biking in the fall in colorado"
+    title: "mountain biking on Rabbit Ears Pass near Steamboat Springs Colorado"
+  - url: /assets/images/sequoia-national-park-william-tyler-moore.jpg
+    image_path: /assets/images/sequoia-national-park-william-tyler-moore.jpg
+    alt: "woman exploring the trees in sequoia national park"
+    title: "exploring sequoia national park"
+  - url: /assets/images/photographer-fish-creek-falls-william-tyler-moore-1.jpg
+    image_path: /assets/images/photographer-fish-creek-falls-william-tyler-moore-1.jpg
+    alt: "photographer hiking in winter at fish creek falls"
+    title: "photographing fish creek falls"
   - url: /assets/images/hiker-colorado-william-tyler-moore.jpeg
     image_path: /assets/images/hiker-colorado-william-tyler-moore.jpeg
     alt: "hiker in the rain in colorado"
