@@ -5,7 +5,7 @@ layout: single
 classes: wide
 author_profile: true
 ---
-Hello! My name is William and I am a 4th year medical student applying into diagnostic radiology with a desire to improve healthcare through education and innovation.
+Hello! My name is William and I am a 4th year medical student. I am applying into diagnostic radiology with the goal to improve healthcare through education and innovation.
 
 I have always been interested in the intersection of technology and medicine, and believe that advances in technology have the power to greatly improve patient care and outcomes. As a future radiologist, I am excited to be at the forefront of developing and utilizing cutting-edge technology in the diagnosis and treatment of patients.
 
