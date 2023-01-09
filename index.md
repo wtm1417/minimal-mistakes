@@ -5,7 +5,13 @@ layout: single
 classes: wide
 author_profile: true
 ---
-I'm currently a 4th year medical student at Boston University applying into diagnostic radiology. I am interested in leveraging technology to improve patient care and eliminate healthcare disparities. I created this site to share my interests and current projects.
+Hello! My name is William and I am a 4th year medical student applying into diagnostic radiology with a desire to improve healthcare through education and innovation.
+
+I have always been interested in the intersection of technology and medicine, and believe that advances in technology have the power to greatly improve patient care and outcomes. As a future radiologist, I am excited to be at the forefront of developing and utilizing cutting-edge technology in the diagnosis and treatment of patients.
+
+In addition to my clinical pursuits, I am also committed to improving healthcare education through the use of innovative methods and technologies. I believe that by equipping future healthcare professionals with the tools and knowledge they need we can collectively work towards a healthier future for all.
+
+I am eager to continue learning and growing in my career, and am excited to see where my passions and interests will take me in the future. I created this site to share my interests and current projects along the way. Thank you for visiting my website and learning more about me.
 
 ## Education
 Boston University Doctor of Medicine _2019 - 2023_  
