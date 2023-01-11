@@ -10,7 +10,7 @@ feature_row:
   - image_path: /assets/images/photographer-telluride-william-tyler-moore.jpeg
     alt: "photographer taking picture of mountain in telluride colorado"
     title: "Photography & Filmmaking"
-    excerpt: 'As a photographer and videographer with over a decade of experience, I specialize in creating engaging content that helps businesses and brands connect with their customers. My passion lies in capturing outdoor adventures and action sports, such as skiing and mountain biking, for ski and bike shops, action sports films, and product manufacturers. As a certified drone pilot, I am able to bring unique perspectives to my work. My goal is to create art that tells a story and inspires others to experience the beauty and excitement of nature for themselves. '
+    excerpt: 'As a photographer and videographer with over a decade of experience, my passion lies in capturing outdoor adventures and action sports, such as skiing and mountain biking, for ski and bike shops, action sports films, and product manufacturers. As a certified drone pilot, I am able to bring unique perspectives to my work. My goal is to create art that tells a story and inspires others to experience the beauty and excitement of nature for themselves. '
     #url: "#test-link"
     #btn_label: "Read More"
     #btn_class: "btn--primary"
