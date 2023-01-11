@@ -16,7 +16,7 @@ I am eager to continue learning and growing in my career and am excited to see w
 
 ## Education
 Boston University Doctor of Medicine _2019 - 2023_  
-Boston University Master's of Science in Medical Sciences _2017 - 2019_    
+Boston University Master of Science in Medical Sciences _2017 - 2019_    
 University of Colorado Bachelor of Arts in Integrative Physiology _2010 - 2014_  
 
 ## Scholarships & Awards
