@@ -1,6 +1,9 @@
 ---
-layout: post
 title:  "Welcome to Jekyll!"
+categories:
+    - Test
+tags:
+    - Test
 ---
 
 # Welcome
