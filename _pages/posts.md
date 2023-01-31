@@ -1,7 +1,7 @@
 ---
 permalink: /posts
 title: "Posts"
-layout: home
+layout: archive
 classes: wide
-author_profile: false
+author_profile: true
 ---
